@@ -1,0 +1,25 @@
+{
+    "site": "www.kreatewebsites.com",
+    "theme": 103,
+    "hosting": "",
+    "email": "",
+    "contact_address": "",
+    "phone": "",
+    "article_layout": "article",
+    "pictures_layout": "pictures",
+    "slides_layout": "slides",
+    "login": 0,
+    "gen": {
+       "seo": 1,
+       "title": 1,
+       "comments": 1,
+       "url": 1,
+       "desc": 1,
+       "keywords": 1,
+       "sitemap": 1
+    },
+    "analytics": "",
+    "adsense": "",
+    "upload": ""
+ }
+ 
